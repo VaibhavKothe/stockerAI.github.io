@@ -57,7 +57,7 @@ def scrape_moneycontrol_news(pages):
 
 
 # Set your Google API key here
-GOOGLE_API_KEY = 'AIzaSyAcVsSxF30Uh7VFP3p4wexJimVR8x9O_qY'
+GOOGLE_API_KEY = 'AIzaSyCvRUYhCJV3kigemQ1kdHAHGXQ_0TDgmfY'
 genai.configure(api_key=GOOGLE_API_KEY)
 
 
