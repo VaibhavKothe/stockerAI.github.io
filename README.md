@@ -5,6 +5,21 @@
 **Stocker AI** is an automated stock market analysis tool designed to provide users with comprehensive insights and forecasts in the financial market. The application integrates several innovative features, utilizing advanced technologies to enhance user experience and decision-making in stock trading.
 
 ---
+## Steps To Run the Code
+
+### 1. Clone the Repository
+First, clone the Stocker AI repository to your local machine by running the following command in your terminal:
+
+```bash
+git clone https://github.com/VaibhavKothe/stockerAI.git
+cd stockerAI
+
+### 2. pip install -r requirements.txt
+
+### 3. streamlit run app.py
+
+
+---
 
 ## Features
 
