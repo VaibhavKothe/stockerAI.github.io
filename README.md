@@ -17,6 +17,7 @@ This feature scrapes the latest news from the **Moneycontrol** website and prese
 - **Pie charts** displaying the sentiment distribution for the summary and headlines
 
 > **Note:** Users can read the complete articles on the Moneycontrol website, and links are provided in the Stocker app itself under the news section.
+![Screenshot 2024-05-07 040232](https://github.com/user-attachments/assets/0d3bc7ea-b771-4e90-9564-a253940202e3)
 
 ![Latest News Feature](Screenshot 2024-05-07 040232.png)(Screenshot 2024-05-07 040243.png)
 
