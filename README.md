@@ -17,9 +17,9 @@ This feature scrapes the latest news from the **Moneycontrol** website and prese
 - **Pie charts** displaying the sentiment distribution for the summary and headlines
 
 > **Note:** Users can read the complete articles on the Moneycontrol website, and links are provided in the Stocker app itself under the news section.
-![Screenshot 2024-05-07 040232](https://github.com/user-attachments/assets/0d3bc7ea-b771-4e90-9564-a253940202e3)
 
-![Latest News Feature](Screenshot 2024-05-07 040232.png)(Screenshot 2024-05-07 040243.png)
+![Screenshot 2024-05-07 040232](https://github.com/user-attachments/assets/7fb9cf0a-250a-478e-b227-20c2510e575d)
+![Screenshot 2024-05-07 040243](https://github.com/user-attachments/assets/d73e9d6d-2a14-4380-89b8-205669b6d3c3)
 
 ---
 
@@ -30,8 +30,8 @@ Users can interact with a chatbot to retrieve insights from the scraped news wit
 - Which stocks received investments, etc.
 
 This functionality is powered by **MongoDB Atlas** for vector search, **CosmoCloud** as the backend layer, and **Gemini AI** as the language model.
+![Screenshot 2024-05-07 040440](https://github.com/user-attachments/assets/0fe6d8a1-c841-46e8-a7c3-10c34c6d54d7)
 
-![News Analysis Chatbot](Screenshot 2024-05-07 040440.png)
 
 ---
 
@@ -44,29 +44,29 @@ Stocker AI provides various stock charts, including:
 - Volume charts
 
 These charts are available for **1,965 companies** listed on the **NSE** and are generated using **Plotly** and **yfinance**.
+![Screenshot 2024-05-07 040504](https://github.com/user-attachments/assets/0dc7d52f-62d8-4c54-8bb5-121c9a06eb63)
+![Screenshot 2024-05-07 040519](https://github.com/user-attachments/assets/6a77853f-d149-4ae2-a354-9eeee91abbbf)
 
-![Stock Charts](Screenshot 2024-05-07 040504.png)(Screenshot 2024-05-07 040519.png)
 
 ---
 
 ### 4. Chat with Graph
 This unique feature uses the **Gemini-1.5-pro-latest model** to perform direct analyses on stock charts based on user queries. Users no longer need to manually analyze the charts, as this chatbot automates the process.
+![Screenshot 2024-05-07 040605](https://github.com/user-attachments/assets/396ae378-00a6-4352-80d3-959f0af40b4c)
 
-![Chat with Graph](Screenshot 2024-05-07 040605.png)
 
 ---
 
 ### 5. Indicators Recommendations
 Stocker AI provides clear recommendations based on technical indicators in the market. This includes insights from oscillators, moving averages, and other indicators to guide users in their trading decisions.
 
-![Indicators Recommendations](Screenshot 2024-05-07 040633.png)
+![Screenshot 2024-05-07 040633](https://github.com/user-attachments/assets/22334740-4214-40ae-a964-9edf750ac0af)
 
 ---
 
 ### 6. Forecast
 The application offers forecasts for the upcoming months based on user specifications. This feature employs the **Facebook Prophet** model to generate reliable predictions.
-
-![Forecast Feature](Screenshot 2024-05-07 040719.png)
+![Screenshot 2024-05-07 040719](https://github.com/user-attachments/assets/e0d35fc9-a282-4ade-bd3f-ebc212bf0002)
 
 ---
 
