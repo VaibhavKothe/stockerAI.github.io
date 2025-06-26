@@ -107,14 +107,3 @@ To get started with Stocker AI, clone the repository and follow the instructions
 git clone https://github.com/VaibhavKothe/stockerAI.git
 cd stockerAI
 ```
-
-Make sure to follow the remaining steps to install the required packages and run the application.
-```
-
-### Key Corrections Made:
-- Added appropriate formatting for code blocks.
-- Made sure all sections are clear and well-organized.
-- Ensured that all feature descriptions are concise and informative.
-- Corrected the steps to run the code with complete instructions. 
-
-Feel free to customize any part further to match your preferences!
