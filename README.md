@@ -5,6 +5,7 @@
 ## Overview
 
 **Stocker AI** is an automated stock market analysis tool designed to provide users with comprehensive insights and forecasts in the financial market. The application integrates several innovative features, utilizing advanced technologies to enhance user experience and decision-making in stock trading.
+<img width="1793" height="826" alt="image" src="https://github.com/user-attachments/assets/90b175e5-78ad-4551-ab97-c2519d7d2a3e" />
 
 ---
 
